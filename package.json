@@ -1,0 +1,11 @@
+{
+  "name": "stremio-toonitalia",
+  "version": "1.0.0",
+  "description": "Addon Stremio per ToonItalia",
+  "main": "api/index.js",
+  "dependencies": {
+    "stremio-addon-sdk": "^3.0.0",
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
